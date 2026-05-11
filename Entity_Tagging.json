@@ -1,1 +1,10 @@
-
+[
+  {
+    "text": "Apple released a new iPhone in California.",
+    "entities": {
+      "company": "Apple",
+      "product": "iPhone",
+      "location": "California"
+    }
+  }
+]
