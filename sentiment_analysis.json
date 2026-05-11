@@ -1,1 +1,14 @@
-
+[
+  {
+    "text": "This product is amazing and very useful.",
+    "label": "positive"
+  },
+  {
+    "text": "The service was terrible and slow.",
+    "label": "negative"
+  },
+  {
+    "text": "The package arrived yesterday.",
+    "label": "neutral"
+  }
+]
